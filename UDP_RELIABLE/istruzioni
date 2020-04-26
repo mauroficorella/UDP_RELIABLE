@@ -1,0 +1,7 @@
+Istruzioni per la compilazione e l'avvio degli eseguibili clientUDP e serverUDP
+
+eseguire dalla cartella client il seguente comando:
+make
+
+eseguire dalla cartella server il seguente comando:
+make
